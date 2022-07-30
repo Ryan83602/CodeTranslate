@@ -36,4 +36,4 @@ cnjs ./index.cnjs ./index.js vue
 网络风暴 & Python_Ryan
 
 ### 版权声明
-需要经过Ryan Team审核后方可免费获取版权
+需要经过网络风暴 & Python_Ryan审核后方可免费获取版权
